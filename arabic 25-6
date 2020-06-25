@@ -17,11 +17,11 @@ http://rr.thgss.com:25461/6189923/123/8604
 http://rr.thgss.com:25461/6189923/123/8605
 #EXTINF:-1,Al Sira Al Nabawiya Nabil Al Awadi
 http://rr.thgss.com:25461/6189923/123/8606
-#EXTINF:-1 tvg-logo="https://i.imgur.com/VNtbK3l.png
+#EXTINF:-1,Al-Arabiya
 https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/1nSgfU0.png
+#EXTINF:-1,Al-Hadath
 https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-
+#EXTINF:-1,Al-Sharqiya
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,News| Aljazeera
 http://rr.thgss.com:25461/6189923/123/23
