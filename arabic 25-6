@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1,<<<=== { Islamic.TV } ===>>>
-http://rr.thgss.com:25461/6189923/123/1899
 #EXTINF:-1,Islamic-Islamic-Noor-Dubai
 http://rr.thgss.com:25461/6189923/123/8598
 #EXTINF:-1,Islamic-Makkah-tv
@@ -19,8 +17,12 @@ http://rr.thgss.com:25461/6189923/123/8604
 http://rr.thgss.com:25461/6189923/123/8605
 #EXTINF:-1,Al Sira Al Nabawiya Nabil Al Awadi
 http://rr.thgss.com:25461/6189923/123/8606
-#EXTINF:-1,<<<=== { News.TV } ===>>>
-http://rr.thgss.com:25461/6189923/123/1897
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VNtbK3l.png
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/1nSgfU0.png
+https://av.alarabiya.net/alarabiapublish/alhadath.smil/playlist_720p.m3u8 
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/qNi4rwG.jpg" tvg-country="IQ" tvg-
+http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1,News| Aljazeera
 http://rr.thgss.com:25461/6189923/123/23
 #EXTINF:-1,News| Aljazeera Mubasher
@@ -178,37 +180,11 @@ http://rr.thgss.com:25461/6189923/123/7537
 #EXTINF:-1,AR | MBC Masr 2-HD
 http://rr.thgss.com:25461/6189923/123/7538
 #EXTINF:-1,AR | MBC MAX-HD
-https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+http://rr.thgss.com:25461/6189923/123/7539
 #EXTINF:-1,AR | MBC Iraq-HD
 http://rr.thgss.com:25461/6189923/123/7540
-#EXTINF:-1,HFM | NETFLIX ACTION | OTT
-http://rr.thgss.com:25461/6189923/123/8608
-#EXTINF:-1,HFM | NETFLIX SCI-FI | OTT
-http://rr.thgss.com:25461/6189923/123/8609
-#EXTINF:-1,HFM | NETFLIX HORROR | OTT
-http://rr.thgss.com:25461/6189923/123/8610
-#EXTINF:-1,HFM | NETFLIX THRILLER | OTT
-http://rr.thgss.com:25461/6189923/123/8611
-#EXTINF:-1,HFM | NETFLIX ANIMATION | OTT
-http://rr.thgss.com:25461/6189923/123/8612
-#EXTINF:-1,HFM | NETFLIX FAMILY | OTT
-http://rr.thgss.com:25461/6189923/123/8613
-#EXTINF:-1,HFM | NETFLIX DRAMA | OTT
-http://rr.thgss.com:25461/6189923/123/8614
-#EXTINF:-1,HFM | NETFLIX COMEDY | OTT
-http://rr.thgss.com:25461/6189923/123/8615
-#EXTINF:-1,OSN Animal Planet HD
-http://rr.thgss.com:25461/6189923/123/6666
-#EXTINF:-1,OSN Discovery Family HD
-http://rr.thgss.com:25461/6189923/123/6667
-#EXTINF:-1,OSN Discovery HD
-http://rr.thgss.com:25461/6189923/123/6668
-#EXTINF:-1,OSN Discovery ID HD
-http://rr.thgss.com:25461/6189923/123/6669
 #EXTINF:-1,OSN Discovery Science HD
 http://rr.thgss.com:25461/6189923/123/6670
-#EXTINF:-1,OSN Disney Channel HD
-http://rr.thgss.com:25461/6189923/123/6671
 #EXTINF:-1,OSN Disney Junior HD
 http://rr.thgss.com:25461/6189923/123/6672
 #EXTINF:-1,OSN NAT GEO People HD
@@ -219,8 +195,6 @@ http://rr.thgss.com:25461/6189923/123/6688
 http://rr.thgss.com:25461/6189923/123/6689
 #EXTINF:-1,OSN E! HD
 http://rr.thgss.com:25461/6189923/123/6673
-#EXTINF:-1,OSN | Food Network HD
-http://rr.thgss.com:25461/6189923/123/6674
 #EXTINF:-1,OSN History Channel 2 HD
 http://rr.thgss.com:25461/6189923/123/6675
 #EXTINF:-1,OSN History Channel HD
@@ -235,8 +209,6 @@ http://rr.thgss.com:25461/6189923/123/6686
 http://rr.thgss.com:25461/6189923/123/6682
 #EXTINF:-1,OSN | Movie First HD+2
 http://rr.thgss.com:25461/6189923/123/6681
-#EXTINF:-1,OSN Movies Disney HD
-http://rr.thgss.com:25461/6189923/123/6697
 #EXTINF:-1,OSN Kids Zone HD
 http://rr.thgss.com:25461/6189923/123/6677
 #EXTINF:-1,OSN Disney XD HD
@@ -271,18 +243,12 @@ http://rr.thgss.com:25461/6189923/123/6763
 http://rr.thgss.com:25461/6189923/123/6764
 #EXTINF:-1,AR | Ninar TV HD
 http://rr.thgss.com:25461/6189923/123/6765
-#EXTINF:-1,AR | Al Khabar TV HD
-http://rr.thgss.com:25461/6189923/123/6766
 #EXTINF:-1,AR | Beity Tv HD
 http://rr.thgss.com:25461/6189923/123/6767
 #EXTINF:-1,AR | Sham TV HD
 http://rr.thgss.com:25461/6189923/123/6768
 #EXTINF:-1,AR | Mara7 HD
 http://rr.thgss.com:25461/6189923/123/6769
-#EXTINF:-1,AR | Minbij TV HD
-http://rr.thgss.com:25461/6189923/123/6770
-#EXTINF:-1,<<<=== { Bein_Group.TV } ===>>>
-http://rr.thgss.com:25461/6189923/123/1888
 #EXTINF:-1,beIN Movies HD1 Premiere
 http://rr.thgss.com:25461/6189923/123/6794
 #EXTINF:-1,beIN Movies HD2 Action
@@ -297,8 +263,6 @@ http://rr.thgss.com:25461/6189923/123/6793
 http://rr.thgss.com:25461/6189923/123/6781
 #EXTINF:-1,beIN Drama HD1
 http://rr.thgss.com:25461/6189923/123/6798
-#EXTINF:-1,beIN AMC HD
-http://rr.thgss.com:25461/6189923/123/6782
 #EXTINF:-1,beIN DMAX HD
 http://rr.thgss.com:25461/6189923/123/6783
 #EXTINF:-1,beIN DTX HD
@@ -335,8 +299,6 @@ http://rr.thgss.com:25461/6189923/123/6804
 http://rr.thgss.com:25461/6189923/123/6805
 #EXTINF:-1,beIN Discovery Kids HD
 http://rr.thgss.com:25461/6189923/123/6806
-#EXTINF:-1,beIN Sports News Full-HD
-http://rr.thgss.com:25461/6189923/123/6807
 #EXTINF:-1,AR | Medi1 HD
 http://rr.thgss.com:25461/6189923/123/8320
 #EXTINF:-1,AR | Al Oula HD
@@ -353,8 +315,6 @@ http://rr.thgss.com:25461/6189923/123/8329
 http://rr.thgss.com:25461/6189923/123/8330
 #EXTINF:-1,AR | Aflam 7 TV HD
 http://rr.thgss.com:25461/6189923/123/8331
-#EXTINF:-1,AR | Tamazight 8 HD
-http://rr.thgss.com:25461/6189923/123/8332
 #EXTINF:-1,AR | Tele Maroco HD
 http://rr.thgss.com:25461/6189923/123/8321
 #EXTINF:-1,AR | Al Aoula laayoune
@@ -363,130 +323,6 @@ http://rr.thgss.com:25461/6189923/123/8448
 http://rr.thgss.com:25461/6189923/123/8333
 #EXTINF:-1,AR | Magherab 24 HD
 http://rr.thgss.com:25461/6189923/123/8334
-#EXTINF:-1,MA: Medi 1 Sat Afrique
-http://rr.thgss.com:25461/6189923/123/8450
-#EXTINF:-1,AR | Al Aoula HD { TNT }
-http://rr.thgss.com:25461/6189923/123/8323
-#EXTINF:-1,AR | 2M HD { TNT }
-http://rr.thgss.com:25461/6189923/123/8325
-#EXTINF:-1,AR | Arriadia HD { TNT }
-http://rr.thgss.com:25461/6189923/123/8327
-#EXTINF:-1,AR | Medi1 Full-HD
-http://rr.thgss.com:25461/6189923/123/8314
-#EXTINF:-1,AR | Al Oula Full-HD
-http://rr.thgss.com:25461/6189923/123/8315
-#EXTINF:-1,AR| Al Maghribia Full-HD
-http://rr.thgss.com:25461/6189923/123/8316
-#EXTINF:-1,AR | Arriadia Full-HD
-http://rr.thgss.com:25461/6189923/123/8317
-#EXTINF:-1,AR | Assadisa Full-HD
-http://rr.thgss.com:25461/6189923/123/8318
-#EXTINF:-1,AR | Tamazight Full-HD
-http://rr.thgss.com:25461/6189923/123/8319
-#EXTINF:-1,<<<=== { Tunisia.TV } ===>>>
-http://rr.thgss.com:25461/6189923/123/1893
-#EXTINF:-1,TN_TUNISIA 1
-http://rr.thgss.com:25461/6189923/123/6584
-#EXTINF:-1,TN_TUNISIA 2
-http://rr.thgss.com:25461/6189923/123/6585
-#EXTINF:-1,TN_NESSMA
-http://rr.thgss.com:25461/6189923/123/6586
-#EXTINF:-1,TN_Elhiwar Ettounsi
-http://rr.thgss.com:25461/6189923/123/6587
-#EXTINF:-1,TN_ATTESSIA
-http://rr.thgss.com:25461/6189923/123/6588
-#EXTINF:-1,TN_HANNIBAL
-http://rr.thgss.com:25461/6189923/123/6589
-#EXTINF:-1,TN_CARTHAGE+
-http://rr.thgss.com:25461/6189923/123/6590
-#EXTINF:-1,TN_AL MUSTAKILA
-http://rr.thgss.com:25461/6189923/123/6591
-#EXTINF:-1,TN_M-TUNISIA
-http://rr.thgss.com:25461/6189923/123/6592
-#EXTINF:-1,TN_ZAYTOUNA
-http://rr.thgss.com:25461/6189923/123/6593
-#EXTINF:-1,TN_ALJANOUBIA
-http://rr.thgss.com:25461/6189923/123/6594
-#EXTINF:-1,TN_Sahel Tv
-http://rr.thgss.com:25461/6189923/123/6595
-#EXTINF:-1,TN_TOUNISNA
-http://rr.thgss.com:25461/6189923/123/6596
-#EXTINF:-1,TN_Tunisie.Telvza.Tv
-http://rr.thgss.com:25461/6189923/123/6597
-#EXTINF:-1,<<<=== { Algeria.TV } ===>>>
-http://rr.thgss.com:25461/6189923/123/1898
-#EXTINF:-1,AR | Programme National Algerie HD
-http://rr.thgss.com:25461/6189923/123/6808
-#EXTINF:-1,AR | A3 HD
-http://rr.thgss.com:25461/6189923/123/6809
-#EXTINF:-1,AR | Canal Algerie HD
-http://rr.thgss.com:25461/6189923/123/6810
-#EXTINF:-1,AR | Algerie 4 TV HD
-http://rr.thgss.com:25461/6189923/123/6811
-#EXTINF:-1,AR | Algerie 5 TV HD
-http://rr.thgss.com:25461/6189923/123/6812
-#EXTINF:-1,AR | Echorouk TV HD
-http://rr.thgss.com:25461/6189923/123/6813
-#EXTINF:-1,AR | Echorouk News HD
-http://rr.thgss.com:25461/6189923/123/6814
-#EXTINF:-1,AR | Echourouk+ HD
-http://rr.thgss.com:25461/6189923/123/6815
-#EXTINF:-1,AR | Ennaha TV HD
-http://rr.thgss.com:25461/6189923/123/6816
-#EXTINF:-1,AR | El Bilad TV HD
-http://rr.thgss.com:25461/6189923/123/6817
-#EXTINF:-1,AR | El-Fajer HD
-http://rr.thgss.com:25461/6189923/123/6818
-#EXTINF:-1,AR | Numidia TV HD
-http://rr.thgss.com:25461/6189923/123/6819
-#EXTINF:-1,AR | Dzair HD
-http://rr.thgss.com:25461/6189923/123/6820
-#EXTINF:-1,AR | El Djazairia One HD
-http://rr.thgss.com:25461/6189923/123/6821
-#EXTINF:-1,AR | Bahia TV
-http://rr.thgss.com:25461/6189923/123/6822
-#EXTINF:-1,AR | Beur TV HD
-http://rr.thgss.com:25461/6189923/123/6823
-#EXTINF:-1,AR | El Adjwaa HD
-http://rr.thgss.com:25461/6189923/123/6824
-#EXTINF:-1,AR | Chams HD
-http://rr.thgss.com:25461/6189923/123/6825
-#EXTINF:-1,AR | El-Hayat HD
-http://rr.thgss.com:25461/6189923/123/6826
-#EXTINF:-1,AR | Berbere TV HD
-http://rr.thgss.com:25461/6189923/123/6827
-#EXTINF:-1,AR | Al Magharibia 1 HD
-http://rr.thgss.com:25461/6189923/123/6829
-#EXTINF:-1,AR | Al Magharibia 2 HD
-http://rr.thgss.com:25461/6189923/123/6830
-#EXTINF:-1,AR | Samira TV HD
-http://rr.thgss.com:25461/6189923/123/6831
-#EXTINF:-1,AR | El Haddef TV HD
-http://rr.thgss.com:25461/6189923/123/6832
-#EXTINF:-1,<<== { Bein_Sports.FHD } ==>> 
-http://rr.thgss.com:25461/6189923/123/4595
-#EXTINF:-1,BeinSports_1_FHD
-http://rr.thgss.com:25461/6189923/123/257
-#EXTINF:-1,BeinSports_2_FHD
-http://rr.thgss.com:25461/6189923/123/261
-#EXTINF:-1,BeinSports_3_FHD
-http://rr.thgss.com:25461/6189923/123/265
-#EXTINF:-1,BeinSports_4_FHD
-http://rr.thgss.com:25461/6189923/123/269
-#EXTINF:-1,BeinSports_5_FHD
-http://rr.thgss.com:25461/6189923/123/273
-#EXTINF:-1,BeinSports_6_FHD
-http://rr.thgss.com:25461/6189923/123/277
-#EXTINF:-1,BeinSports_7_FHD
-http://rr.thgss.com:25461/6189923/123/281
-#EXTINF:-1,BeinSports_8_FHD
-http://rr.thgss.com:25461/6189923/123/285
-#EXTINF:-1,BeinSports_9_FHD
-http://rr.thgss.com:25461/6189923/123/289
-#EXTINF:-1,BeinSports_10_FHD
-http://rr.thgss.com:25461/6189923/123/293
-#EXTINF:-1,<<== { Bein_Sports.HD } ==>>
-http://rr.thgss.com:25461/6189923/123/1887
 #EXTINF:-1,AR:BEINSPORTS-1 HD
 http://rr.thgss.com:25461/6189923/123/297
 #EXTINF:-1,AR:BEINSPORTS-2 HD
@@ -507,37 +343,4 @@ http://rr.thgss.com:25461/6189923/123/304
 http://rr.thgss.com:25461/6189923/123/305
 #EXTINF:-1,AR:BEINSPORTS-10 HD
 http://rr.thgss.com:25461/6189923/123/306
-#EXTINF:-1,<<== { Bein_Sports.720p } ==>> 
-http://rr.thgss.com:25461/6189923/123/4596
-#EXTINF:-1,AR:BEINSPORTS Low_1
-http://rr.thgss.com:25461/6189923/123/307
-#EXTINF:-1,AR:BEINSPORTS Low_2
-http://rr.thgss.com:25461/6189923/123/308
-#EXTINF:-1,AR:BEINSPORTS Low_3
-http://rr.thgss.com:25461/6189923/123/309
-#EXTINF:-1,AR:BEINSPORTS Low_4
-http://rr.thgss.com:25461/6189923/123/310
-#EXTINF:-1,AR:BEINSPORTS Low_5
-http://rr.thgss.com:25461/6189923/123/311
-#EXTINF:-1,AR:BEINSPORTS Low_6
-http://rr.thgss.com:25461/6189923/123/312
-#EXTINF:-1,AR:BEINSPORTS Low_7
-http://rr.thgss.com:25461/6189923/123/313
-#EXTINF:-1,AR:BEINSPORTS Low_8
-http://rr.thgss.com:25461/6189923/123/314
-#EXTINF:-1,AR:BEINSPORTS-1-SD
-http://rr.thgss.com:25461/6189923/123/315
-#EXTINF:-1,AR:BEINSPORTS-2-SD
-http://rr.thgss.com:25461/6189923/123/316
-#EXTINF:-1,AR:BEINSPORTS-3-SD
-http://rr.thgss.com:25461/6189923/123/317
-#EXTINF:-1,AR:BEINSPORTS-4-SD
-http://rr.thgss.com:25461/6189923/123/318
-#EXTINF:-1,AR:BEINSPORTS-5-SD
-http://rr.thgss.com:25461/6189923/123/319
-#EXTINF:-1,AR:BEINSPORTS-6-SD
-http://rr.thgss.com:25461/6189923/123/320
-#EXTINF:-1,AR:BEINSPORTS-7-SD
-http://rr.thgss.com:25461/6189923/123/321
-#EXTINF:-1,AR:BEINSPORTS-8-SD
-http://rr.thgss.com:25461/6189923/123/322
+
